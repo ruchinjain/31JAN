@@ -16,4 +16,11 @@ rgs = {
     
     
     }
+
+     rg4={
+    name="ram"
+    location="central india"
+    
+    
+    }
 }
