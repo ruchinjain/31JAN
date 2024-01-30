@@ -10,4 +10,10 @@ rgs = {
     location="central india"
 
     }
+     rg3={
+    name="mohit"
+    location="central india"
+    
+    
+    }
 }
